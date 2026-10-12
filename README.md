@@ -1,2 +1,37 @@
-# daily-articulation-practice
-Daily 5-10 minute speeches for articulation &amp; public speaking practice. Read in front of the mirror.
+# Daily Articulation & Public Speaking Practice
+
+This repository contains short speeches (5–10 minutes when read slowly and clearly) designed to improve articulation, clarity, confidence, and public speaking skills.
+
+## How to use
+
+1. Open the speech for the day.
+2. Stand in front of a mirror.
+3. Read it out loud slowly and clearly.
+4. Focus on:
+   - Clear pronunciation of every word
+   - Pausing at commas and full stops
+   - Good posture and eye contact with yourself
+   - Breathing between sentences
+5. Record yourself if possible and listen back.
+
+## Daily Practice Rules
+
+- Do it every day (even if only 5 minutes)
+- Speak louder than you normally would
+- Over-articulate slightly at first (it will feel weird — that’s good)
+- Don’t rush. Clarity > speed
+
+## Structure of Speeches
+
+Each speech focuses on different skills:
+- Day 1: Clarity & breathing
+- Day 2: Storytelling & emotion
+- Day 3: Persuasion
+- Day 4: Explaining complex ideas simply
+- Day 5: Confidence & presence
+- And so on...
+
+---
+
+**Created for consistent daily practice.**  
+Consistency beats intensity.
