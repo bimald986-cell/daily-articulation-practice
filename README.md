@@ -6,7 +6,7 @@ This repository contains short speeches (5–10 minutes when read slowly and cle
 
 - ✅ Day 1 – Clarity & Breathing (completed)
 - ✅ Day 2 – Storytelling & Emotion (completed on 14 Oct 2026)
-- ⬜ Day 3 – Persuasion (next)
+- ✅ Day 3 – Persuasion (completed on 15 Oct 2026)
 - ⬜ Day 4 – Explaining complex ideas simply
 - ⬜ Day 5 – Confidence & presence
 
