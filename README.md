@@ -10,7 +10,8 @@ This repository contains short speeches (5–10 minutes when read slowly and cle
 - ✅ Day 4 – Explaining complex ideas simply (completed on 17 Oct 2026)
 - ✅ Day 5 – Confidence & presence (completed on 18 Oct 2026)
 - ✅ Day 6 – Vocal Variety & Rhythm (completed on 22 Oct 2026)
-- ⭐ Day 7 – Gestures & Open Body Language (today’s practice – 23 Oct 2026)
+- ✅ Day 7 – Gestures & Open Body Language (completed on 23 Oct 2026)
+- ⭐ Day 8 – Pauses & Emphasis (today’s practice – 24 Oct 2026)
 
 ## How to use
 
@@ -41,6 +42,7 @@ Each speech focuses on different skills:
 - Day 5: Confidence & presence
 - Day 6: Vocal Variety & Rhythm
 - Day 7: Gestures & Open Body Language
+- Day 8: Pauses & Emphasis
 - And so on...
 
 ---
