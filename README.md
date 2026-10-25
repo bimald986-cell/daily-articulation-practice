@@ -11,7 +11,8 @@ This repository contains short speeches (5–10 minutes when read slowly and cle
 - ✅ Day 5 – Confidence & presence (completed on 18 Oct 2026)
 - ✅ Day 6 – Vocal Variety & Rhythm (completed on 22 Oct 2026)
 - ✅ Day 7 – Gestures & Open Body Language (completed on 23 Oct 2026)
-- ⭐ Day 8 – Pauses & Emphasis (today’s practice – 24 Oct 2026)
+- ✅ Day 8 – Pauses & Emphasis (completed on 24 Oct 2026)
+- ⭐ Day 9 – Eye Contact & Genuine Connection (today’s practice – 25 Oct 2026)
 
 ## How to use
 
@@ -43,6 +44,7 @@ Each speech focuses on different skills:
 - Day 6: Vocal Variety & Rhythm
 - Day 7: Gestures & Open Body Language
 - Day 8: Pauses & Emphasis
+- Day 9: Eye Contact & Genuine Connection
 - And so on...
 
 ---
