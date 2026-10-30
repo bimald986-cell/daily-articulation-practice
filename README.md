@@ -16,7 +16,8 @@ This repository contains short speeches (5–10 minutes when read slowly and cle
 - ✅ Day 10 – Pace & Volume Control (completed on 26 Oct 2026)
 - ✅ Day 11 – Handling Nerves and Staying Present (completed on 27 Oct 2026)
 - ✅ Day 12 – Recovering from Mistakes with Grace (completed on 28 Oct 2026)
-- ⭐ Day 13 – Warm Vocal Tone and Approachability (today’s practice – 29 Oct 2026)
+- ✅ Day 13 – Warm Vocal Tone and Approachability (completed on 29 Oct 2026)
+- ⭐ Day 14 – Positive Framing and Constructive Language (today’s practice – 30 Oct 2026)
 
 ## How to use
 
@@ -53,6 +54,7 @@ Each speech focuses on different skills:
 - Day 11: Handling Nerves and Staying Present
 - Day 12: Recovering from Mistakes with Grace
 - Day 13: Warm Vocal Tone and Approachability
+- Day 14: Positive Framing and Constructive Language
 - And so on...
 
 ---
