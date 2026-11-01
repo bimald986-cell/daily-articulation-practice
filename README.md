@@ -18,7 +18,8 @@ This repository contains short speeches (5–10 minutes when read slowly and cle
 - ✅ Day 12 – Recovering from Mistakes with Grace (completed on 28 Oct 2026)
 - ✅ Day 13 – Warm Vocal Tone and Approachability (completed on 29 Oct 2026)
 - ✅ Day 14 – Positive Framing and Constructive Language (completed on 30 Oct 2026)
-- ⭐ Day 15 – Smooth Transitions and Natural Flow (today’s practice – 31 Oct 2026)
+- ✅ Day 15 – Smooth Transitions and Natural Flow (completed on 31 Oct 2026)
+- ⭐ Day 16 – Strong Openings and Clear Closings (today’s practice – 1 Nov 2026)
 
 ## How to use
 
@@ -57,6 +58,7 @@ Each speech focuses on different skills:
 - Day 13: Warm Vocal Tone and Approachability
 - Day 14: Positive Framing and Constructive Language
 - Day 15: Smooth Transitions and Natural Flow
+- Day 16: Strong Openings and Clear Closings
 - And so on...
 
 ---
