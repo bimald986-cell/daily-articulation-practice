@@ -21,7 +21,8 @@ This repository contains short speeches (5–10 minutes when read slowly and cle
 - ✅ Day 15 – Smooth Transitions and Natural Flow (completed on 31 Oct 2026)
 - ✅ Day 16 – Strong Openings and Clear Closings (completed on 1 Nov 2026)
 - ✅ Day 17 – Asking Thoughtful Questions and Inviting Dialogue (completed on 4 Nov 2026)
-- ⭐ Day 18 – Active Listening and Reflecting Back (today’s practice – 5 Nov 2026)
+- ✅ Day 18 – Active Listening and Reflecting Back (completed on 5 Nov 2026)
+- ⭐ Day 19 – Building Rapport and Finding Common Ground (today’s practice – 6 Nov 2026)
 
 ## How to use
 
@@ -63,6 +64,7 @@ Each speech focuses on different skills:
 - Day 16: Strong Openings and Clear Closings
 - Day 17: Asking Thoughtful Questions and Inviting Dialogue
 - Day 18: Active Listening and Reflecting Back
+- Day 19: Building Rapport and Finding Common Ground
 - And so on...
 
 ---
