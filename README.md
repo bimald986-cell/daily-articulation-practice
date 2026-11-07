@@ -22,7 +22,8 @@ This repository contains short speeches (5–10 minutes when read slowly and cle
 - ✅ Day 16 – Strong Openings and Clear Closings (completed on 1 Nov 2026)
 - ✅ Day 17 – Asking Thoughtful Questions and Inviting Dialogue (completed on 4 Nov 2026)
 - ✅ Day 18 – Active Listening and Reflecting Back (completed on 5 Nov 2026)
-- ⭐ Day 19 – Building Rapport and Finding Common Ground (today’s practice – 6 Nov 2026)
+- ✅ Day 19 – Building Rapport and Finding Common Ground (completed on 6 Nov 2026)
+- ⭐ Day 20 – Showing Empathy and Validating Feelings (today’s practice – 7 Nov 2026)
 
 ## How to use
 
@@ -65,6 +66,7 @@ Each speech focuses on different skills:
 - Day 17: Asking Thoughtful Questions and Inviting Dialogue
 - Day 18: Active Listening and Reflecting Back
 - Day 19: Building Rapport and Finding Common Ground
+- Day 20: Showing Empathy and Validating Feelings
 - And so on...
 
 ---
