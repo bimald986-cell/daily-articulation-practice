@@ -24,7 +24,8 @@ This repository contains short speeches (5–10 minutes when read slowly and cle
 - ✅ Day 18 – Active Listening and Reflecting Back (completed on 5 Nov 2026)
 - ✅ Day 19 – Building Rapport and Finding Common Ground (completed on 6 Nov 2026)
 - ✅ Day 20 – Showing Empathy and Validating Feelings (completed on 7 Nov 2026)
-- ⭐ Day 21 – Offering Constructive Feedback (today’s practice – 8 Nov 2026)
+- ✅ Day 21 – Offering Constructive Feedback (completed on 8 Nov 2026)
+- ⭐ Day 22 – Expressing Genuine Appreciation and Recognition (today’s practice – 9 Nov 2026)
 
 ## How to use
 
@@ -69,6 +70,7 @@ Each speech focuses on different skills:
 - Day 19: Building Rapport and Finding Common Ground
 - Day 20: Showing Empathy and Validating Feelings
 - Day 21: Offering Constructive Feedback
+- Day 22: Expressing Genuine Appreciation and Recognition
 - And so on...
 
 ---
