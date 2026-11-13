@@ -27,7 +27,8 @@ This repository contains short speeches (5–10 minutes when read slowly and cle
 - ✅ Day 21 – Offering Constructive Feedback (completed on 8 Nov 2026)
 - ✅ Day 22 – Expressing Genuine Appreciation and Recognition (completed on 9 Nov 2026)
 - ✅ Day 23 – Handling Disagreement with Respect (completed on 11 Nov 2026)
-- ⭐ Day 24 – Summarizing and Checking Understanding (today’s practice – 12 Nov 2026)
+- ✅ Day 24 – Summarizing and Checking Understanding (completed on 12 Nov 2026)
+- ⭐ Day 25 – Speaking Concisely and Getting to the Point (today’s practice – 13 Nov 2026)
 
 ## How to use
 
@@ -75,6 +76,7 @@ Each speech focuses on different skills:
 - Day 22: Expressing Genuine Appreciation and Recognition
 - Day 23: Handling Disagreement with Respect
 - Day 24: Summarizing and Checking Understanding
+- Day 25: Speaking Concisely and Getting to the Point
 - And so on...
 
 ---
